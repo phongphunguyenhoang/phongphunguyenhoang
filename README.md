@@ -18,12 +18,9 @@
 - 🦈 Docker: senior
 - 📦 JavaScript: senior
 - 👀 C/C++: senior
-- 🎨 Graphic design: junior
 - 📱 GUI: junior
 - 🍥 OS: Arch Linux w/ Hyprland
 - 💭 Pronouns: he/him
-- 📫 E-mail: [astralveil](mailto:astralveil@gmail.com)
-- 💬 Telegram: [@AstralVeil](https://t.me/astralveil)
 - 📣 Babel: `cmn`
 
 <div>
