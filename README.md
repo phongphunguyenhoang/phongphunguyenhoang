@@ -5,7 +5,7 @@
 </div>
 
 <p align="center"> 
-  Iam watching you, number:<br>
+  Visitors: <br>
   <img src="https://profile-counter.glitch.me/phongphunguyenhoang/count.svg" />
 </p>
 
