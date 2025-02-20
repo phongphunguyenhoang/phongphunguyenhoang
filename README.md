@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @phongphunguyenhoang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋
 
-<!---
-phongphunguyenhoang/phongphunguyenhoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phongphunguyenhoang&column=-1&theme=tokyonight" alt="nhphongphu's GitHub trophy">
+</div>
+
+<p align="center"> 
+  Iam watching you, number:<br>
+  <img src="https://profile-counter.glitch.me/phongphunguyenhoang/count.svg" />
+</p>
+
+<hr>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
+
+
+- 🐍 Python: junior
+- 🦈 Docker: senior
+- 📦 JavaScript: senior
+- 👀 C/C++: senior
+- 🎨 Graphic design: junior
+- 📱 GUI: junior
+- 🍥 OS: Arch Linux w/ Hyprland
+- 💭 Pronouns: he/him
+- 📫 E-mail: [astralveil](mailto:astralveil@gmail.com)
+- 💬 Telegram: [@AstralVeil](https://t.me/astralveil)
+- 📣 Babel: `cmn`
+
+<div>
+  <p align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongphunguyenhoang&layout=compact&theme=tokyonight">
+  </p>
+</div>
+
