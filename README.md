@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
+<img align="right" src="https://ghrs.cssnr.com/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
 
 - 🐍 Python: junior
 - 🦈 Docker: senior
@@ -32,7 +32,7 @@
 
 <div>
   <p align=right>
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/top-langs/?username=phongphunguyenhoang&layout=compact&theme=tokyonight">
+    <img src="https://ghrs.cssnr.com/api/top-langs/?username=phongphunguyenhoang&layout=compact&theme=tokyonight">
   </p>
 </div>
 
