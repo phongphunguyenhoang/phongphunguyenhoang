@@ -5,6 +5,14 @@
 
 <hr>
 
+### 🏆 GitHub Ranks
+
+<div align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=phongphunguyenhoang&theme=tokyonight&no-bg=true" alt="GitHub Trophies">
+</div>
+
+<br>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
 
 - 🐍 Python: junior
