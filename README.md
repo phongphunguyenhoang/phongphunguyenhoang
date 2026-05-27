@@ -11,15 +11,17 @@
   <img src="https://trophygh.kolioaris.xyz/?username=phongphunguyenhoang&theme=tokyonight&no-bg=true" alt="GitHub Trophies">
 </div>
 
-### 🥋 CodeWars Rank & Stats
+### 💻 Rank & Stats
 
 <div align="center">
   <img src="https://www.codewars.com/users/diablo%20harmonz/badges/large" alt="CodeWars Rank Stats">
 </div>
 
-<br>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/phongphunguyenhoang?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats">
+</div>
 
-<img align="right" src="https://ghrs.cssnr.com/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
+<br>
 
 - 🐍 Python: junior
 - 🦈 Docker: senior
@@ -30,17 +32,4 @@
 - 💭 Pronouns: he/him
 - 📣 Babel: `cmn`
 
-<div>
-  <p align=right>
-    <img src="https://ghrs.cssnr.com/api/top-langs/?username=phongphunguyenhoang&layout=compact&theme=tokyonight">
-  </p>
-</div>
-
 ---
-
-### 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/phongphunguyenhoang?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats">
-</div>
-
