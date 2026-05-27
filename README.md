@@ -5,14 +5,6 @@
 
 <hr>
 
-### 🏆 GitHub Ranks
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phongphunguyenhoang&theme=tokyonight&no-bg=true" alt="GitHub Trophies">
-</div>
-
-<br>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
 
 - 🐍 Python: junior
@@ -38,10 +30,8 @@
   <img src="https://leetcard.jacoblin.cool/phongphunguyenhoang?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats">
 </div>
 
-### 🥋 CodeWars Stats
+### 🥋 CodeWars Rank & Stats
 
 <div align="center">
-  <a href="https://www.codewars.com/users/phongphunguyenhoang">
-    <img src="https://www.codewars.com/users/phongphunguyenhoang/badges/large" alt="CodeWars Badge">
-  </a>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=phongphunguyenhoang&theme=dracula" alt="CodeWars Rank Stats">
 </div>
