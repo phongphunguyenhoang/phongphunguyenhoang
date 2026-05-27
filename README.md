@@ -28,9 +28,3 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/phongphunguyenhoang?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats">
 </div>
-
-### 🏅 LeetCode Badges
-
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=phongphunguyenhoang&theme=github-dark&animated=true" alt="LeetCode Badges">
-</div>
