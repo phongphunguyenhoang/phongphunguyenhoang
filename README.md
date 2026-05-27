@@ -1,18 +1,10 @@
 ### Hi there 👋
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phongphunguyenhoang&column=-1&theme=tokyonight" alt="nhphongphu's GitHub trophy">
-</div>
-
-<p align="center"> 
-  Visitors: <br>
-  <img src="https://profile-counter.glitch.me/phongphunguyenhoang/count.svg" />
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/phongphunguyenhoang/)
 
 <hr>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
 
 - 🐍 Python: junior
 - 🦈 Docker: senior
@@ -29,3 +21,16 @@
   </p>
 </div>
 
+---
+
+### 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/phongphunguyenhoang?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats">
+</div>
+
+### 🏅 LeetCode Badges
+
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=phongphunguyenhoang&theme=github-dark&animated=true" alt="LeetCode Badges">
+</div>
