@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/phongphunguyenhoang/)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/phongphunguyenhoang)
 
 <hr>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=phongphunguyenhoang&show_icons=true&theme=tokyonight" alt="phongphunguyenhoang's GitHub Stats">
 
 - 🐍 Python: junior
 - 🦈 Docker: senior
@@ -27,4 +26,12 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/phongphunguyenhoang?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats">
+</div>
+
+### 🥋 CodeWars Stats
+
+<div align="center">
+  <a href="https://www.codewars.com/users/phongphunguyenhoang">
+    <img src="https://www.codewars.com/users/phongphunguyenhoang/badges/large" alt="CodeWars Badge">
+  </a>
 </div>
