@@ -33,13 +33,3 @@
 
 <br>
 
-- 🐍 Python: junior
-- 🦈 Docker: senior
-- 📦 JavaScript: senior
-- 👀 C/C++: senior
-- 📱 GUI: junior
-- 🍥 OS: Arch Linux w/ Hyprland
-- 💭 Pronouns: he/him
-- 📣 Babel: `cmn`
-
----
